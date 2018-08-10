@@ -215,3 +215,18 @@ input[type=submit] {
   background: #4aaaa5;
   border: 0 none;
 }
+
+/* Cell Phone */
+@media only screen and (max-width: 200px){
+
+}
+
+/* Tablet */
+@media only screen and (max-width: 200px){
+
+}
+
+/* desktop */
+@media only screen and (max-width: 960px){
+
+}
